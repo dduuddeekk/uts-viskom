@@ -1,0 +1,26 @@
+METADATA:
+SourceFile                         : D:/Documents/Kuliah/Semester 8 waduh/Visi Komputer/uts-visikom/metadata/img.jpg
+ExifTool:ExifToolVersion           : 13.53
+File:FileName                      : img.jpg
+File:Directory                     : D:/Documents/Kuliah/Semester 8 waduh/Visi Komputer/uts-visikom/metadata
+File:FileSize                      : 23511
+File:ZoneIdentifier                : Exists
+File:FileModifyDate                : 2026:03:23 20:20:43+08:00
+File:FileAccessDate                : 2026:03:23 20:46:57+08:00
+File:FileCreateDate                : 2026:03:23 20:29:10+08:00
+File:FilePermissions               : 100666
+File:FileType                      : JPEG
+File:FileTypeExtension             : JPG
+File:MIMEType                      : image/jpeg
+File:ImageWidth                    : 500
+File:ImageHeight                   : 500
+File:EncodingProcess               : 2
+File:BitsPerSample                 : 8
+File:ColorComponents               : 3
+File:YCbCrSubSampling              : 2 2
+JFIF:JFIFVersion                   : 1 1
+JFIF:ResolutionUnit                : 1
+JFIF:XResolution                   : 72
+JFIF:YResolution                   : 72
+Composite:ImageSize                : 500 500
+Composite:Megapixels               : 0.25
